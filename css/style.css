@@ -96,7 +96,7 @@ main h1 {
   font-size: 9rem;
   padding-top: 100px;
   padding-bottom: 10px;
-  color: #3a1b0f;
+  color: #fffefe;
 }
 
 main h1+p {
@@ -188,12 +188,12 @@ main h1+p {
   justify-content: space-evenly;
   text-align: center;
   padding: 100px 0;
-  background: #d26269;
+  background: #fffefe;
 
 }
 
 .services h3 {
-  color: #f6f0e9;
+  color: #fffefe;
 }
 
 .servicesIndividual {
@@ -240,7 +240,7 @@ footer {
 }
 
 nav li a:hover {
-  border-bottom: 2px solid #d26269;
+  border-bottom: 2px solid #fffefe;
 }
 
 footer>section {
