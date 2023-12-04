@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background: #fffefe;
+  background: #FEFCFC;
   font-family: 'Crimson Text', serif;
 
 }
@@ -58,7 +58,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #fffefe;
+  color: #FEFCFC;
   font-weight: bold;
   font-size: 1.3rem;
 }
