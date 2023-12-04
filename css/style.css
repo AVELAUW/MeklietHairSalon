@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background: #F2645C;
+  background: #d26269;
   font-family: 'Crimson Text', serif;
 
 }
@@ -58,7 +58,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #f2645c;
+  color: #d26269;
   font-weight: bold;
   font-size: 1.3rem;
 }
@@ -76,7 +76,7 @@ ul li {
 /* ============= main section ================*/
 
 main {
-  background: url(../assets/mainbg.png), #f6f0e9;
+  background: url(../assets/mainbg.png), #d26269;
   background-repeat: no-repeat, no-repeat;
   /* background-position: center center, center center; */
   /* background-attachment: fixed, fixed; */
@@ -109,7 +109,7 @@ main h1+p {
 .links {
 
   border: #3a1b0f 1px solid;
-  background: #3a1b0f;
+  background: #d26269;
   color: #f6f0e9;
   text-decoration: none;
   padding: 10px 20px;
@@ -120,7 +120,7 @@ main h1+p {
 .links:hover {
 
   border: #3a1b0f 1px solid;
-  background: #f6f0e9;
+  background: #d26269;
   color: #3a1b0f;
   /* text-decoration: none;
   padding: 10px 20px; */
@@ -128,7 +128,7 @@ main h1+p {
 
 .firstVisitorsDiscount {
   border: #3a1b0f 1px solid;
-  background: #3a1b0f;
+  background: #d26269;
   color: #f6f0e9;
   width: 180px;
   padding: 10px 10px 20px 20px;
@@ -148,7 +148,7 @@ main h1+p {
 
 .firstVisitorsDiscount a {
   border: #f6f0e9 1px solid;
-  background: #f6f0e9;
+  background: #d26269;
   color: #3a1b0f;
   text-decoration: none;
   margin-top: 10px;
@@ -188,7 +188,7 @@ main h1+p {
   justify-content: space-evenly;
   text-align: center;
   padding: 100px 0;
-  background: #C3B3AE;
+  background: #d26269;
 
 }
 
@@ -240,7 +240,7 @@ footer {
 }
 
 nav li a:hover {
-  border-bottom: 2px solid #3a1b0f;
+  border-bottom: 2px solid #d26269;
 }
 
 footer>section {
