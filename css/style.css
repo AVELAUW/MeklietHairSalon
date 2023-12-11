@@ -187,7 +187,7 @@ main h1+p {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-  padding: 100px 0;
+  padding: 10px 0;
   background: #FFE5EC;
 
 }
