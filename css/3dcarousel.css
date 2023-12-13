@@ -25,7 +25,7 @@ html {
 }
 
 .wgh-slider__viewbox {
-    display: inline;
+    display: inbox;
     position: relative;
     perspective: 100vw;
     margin: 0 auto;
